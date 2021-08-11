@@ -1,6 +1,6 @@
-# Laboratorio de pruebas
+# Laboratorio de recetas
 
-Laboratorio de pruebas secretas de códigos.
+Repositorio de recetas secretas de códigos.
 
 | Lenguaje        | Programas creados  | Cool  |
 | ------------- |:-------------:| -----:|
