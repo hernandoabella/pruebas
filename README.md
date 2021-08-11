@@ -2,17 +2,17 @@
 
 Repositorio de recetas secretas de códigos.
 
-| Lenguaje        | Programas creados  | Cool  |
-| ------------- |:-------------:| -----:|
-| C  | 1 |  |
-| C++  | 1 |  |
-| C#  | 1 |   |
-| GO  | 1 |  |
-| JAVA  | 1 |   |
-| JS | 1 |    |
-| KOTLIN  | 1 |  |
-| MATLAB  | 1 |   |
-| PHP | 1 |  |
-| PYTHON  | 1 |   |
-| SWIFT  | 1 |   |
+| Lenguaje        | Número de programas |       |
+| -------------   |:-------------:      | -----:|
+| C               | 0                   |       |
+| C++             | 0                   |       |
+| C#              | 0                   |       |
+| GO              | 0                   |       |
+| JAVA            | 0                   |   |
+| JS              | 1                   |   |
+| KOTLIN          | 0                   |   |
+| MATLAB          | 0                   |   |
+| PHP             | 0                   |   |
+| PYTHON          | 0                   |   |
+| SWIFT           | 0                   |   |
 
