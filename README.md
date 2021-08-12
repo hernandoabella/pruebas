@@ -1,18 +1,20 @@
-# Laboratorio de recetas
+# Laboratorio de pruebas 🧪
 
-Repositorio de recetas secretas de códigos.
+Pruebas de códigos realizadas en distintos lenguajes de programación.
 
-| Lenguaje        | Número de programas |       |
-| -------------   |:-------------:      | -----:|
-| C               | 0                   |       |
-| C++             | 0                   |       |
-| C#              | 0                   |       |
-| GO              | 0                   |       |
-| JAVA            | 0                   |   |
-| JS              | 1                   |   |
-| KOTLIN          | 0                   |   |
-| MATLAB          | 0                   |   |
-| PHP             | 0                   |   |
-| PYTHON          | 0                   |   |
-| SWIFT           | 0                   |   |
+| Lenguaje        |
+| -------------   | 
+| C               |
+| C++             |
+| C#              |
+| GO              |
+| JAVA            | 
+| JS              | 
+| KOTLIN          | 
+| MATLAB          |
+| PHP             |
+| PYTHON          |
+| SWIFT           | 
+| R               | 
+| SQL             | 
 
