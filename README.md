@@ -6,22 +6,16 @@ Pruebas de códigos realizadas en distintos lenguajes de programación.
 
 | Lenguaje        |  Número de programas  |
 | -------------   |  -------------        |
-| C               |                       |
-| C++             |                       |
-| C#              |                       |
-| GO              |                       |
-| JAVA            |                       |
-| JS              |                       |
-| KOTLIN          |                       |
-| MATLAB          |                       |
-| PHP             |                       |
-| PYTHON          |                       |
-| SWIFT           |                       | 
-| R               |                       |
-| SQL             |                       |
-
-### Lista de Programas
-
-|  #  | Nombre del programa    |
-|-----|------                  | 
-|  1  |                        |
+| C               |           1            |
+| C++             |            1           |
+| C#              |           1            |
+| GO              |            1           |
+| JAVA            |           1            |
+| JS              |           1            |
+| KOTLIN          |           1            |
+| MATLAB          |            1           |
+| PHP             |          1             |
+| PYTHON          |           1            |
+| SWIFT           |           1            | 
+| R               |            1           |
+| SQL             |            1           |
